@@ -1,5 +1,5 @@
 # FM_os
-Created own os with the use of Cosmos utility tool.
+Created own os with the use of C# Open Source Managed Operating System.
 Creatred a full Working os with file system and ,multi- user support.
 As we all know that there are many functions of an os including both external that is visible to user as well as internal that runs and processes at the background interacting with the cpu that is hidden from the user .
 
