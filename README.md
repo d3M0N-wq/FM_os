@@ -18,3 +18,5 @@ simultaneously
 • Store the information about the number of user’s connected to the server and provides security to data from unauthorized access
 
 • Each user has a private set of programs and access techniques for accessing the data.
+
+*extract rar file it contains iso of os.*
