@@ -5,7 +5,8 @@ Creatred a full Working os with file system and ,multi- user support.
 
 As we all know that there are many functions of an os including both external that is visible to user as well as internal that runs and processes at the background interacting with the cpu that is hidden from the user .
 
-Here we selected some of its functions that is visible to the user and managed by the user And also we found it somewhat easy to perform and implement in our os .
+Here we selected some of its functions that is visible to the user and managed by the user And also we found it somewhat easy to perform and implement in our os.
+
 Advantages:-
 • Allows many different users to take advantage of computer's resources simultaneously
 
